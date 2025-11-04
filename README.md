@@ -18,13 +18,15 @@ Each problem file follows the format:
 
 ---
 
-🎯 Goals
+## 🎯 Goals
 Strengthen logical thinking and problem-solving abilities
 Build clean, efficient, and readable Python solutions
 Prepare for programming contests and technical interviews
 
-🌐 My Codeforces Profile
+## 🌐 My Codeforces Profile
 👉 https://codeforces.com/profile/AhmedAmr03
+
+---
 
 🏆 Notes
 This repository is continuously updated as I solve more problems.
