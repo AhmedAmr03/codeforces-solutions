@@ -24,7 +24,7 @@ Build clean, efficient, and readable Python solutions
 Prepare for programming contests and technical interviews
 
 🌐 My Codeforces Profile
-👉 Visit my Codeforces account : "https://codeforces.com/profile/AhmedAmr03"
+👉 https://codeforces.com/profile/AhmedAmr03
 
 🏆 Notes
 This repository is continuously updated as I solve more problems.
