@@ -8,10 +8,10 @@ It’s part of my journey to master **algorithms**, **data structures**, and **c
 ## 📚 Repository Structure
 Each folder represents a difficulty level (based on Codeforces rating):
 
-/800/ → Beginner level problems
-/1000/ → Easy–Intermediate level
-/1200/ → Intermediate level
-/1400+/ → Advanced problems
+- /800/ → Beginner level problems
+- /1000/ → Easy–Intermediate level
+- /1200/ → Intermediate level
+- /1400+/ → Advanced problems
 
 Each problem file follows the format:
 <problem_ID>_<problem_name>.py
