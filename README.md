@@ -30,6 +30,6 @@ Prepare for programming contests and technical interviews
 This repository is continuously updated as I solve more problems.
 Feel free to ⭐ star the repo if you find it useful or inspiring.
 
-## Ahmed Amr
 "Solve. Learn. Improve."
+## Ahmed Amr
 
